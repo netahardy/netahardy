@@ -2,7 +2,7 @@
 My name is Neta Hardy Astuty (SHE/HER):
 - 💻 I am passionate about AI and ML(so rn I'm currently self-taught), and I am a long-life learner.
 - ⚡ I love art in all its forms. Also I really love with books, especially 'bout self improvement.
-- 📫 Reach out: https://www.linkedin.com/in/netahardy/ https://www.instagram.com/netahardy/
+- 📫 Reach out: linkedin.com/in/netahardy/ 
 
 <!--
 **netahardy/netahardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
